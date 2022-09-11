@@ -1,11 +1,10 @@
 import Navbar from "./Components/Navbar";
-import Slide from "./Components/Slide";
-
+import Home from "./Pages/Home"
 function App() {
   return (
     <div className="App">
-      {/* <Navbar/> */}
-      <Slide/>
+      <Navbar/> 
+      <Home/>
     </div>
   );
 }

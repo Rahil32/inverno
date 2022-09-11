@@ -1,11 +1,11 @@
 import React from 'react';
-import Navbar from '../Components/Navbar';
 import Slide from '../Components/Slide';
 
 const Home = () => {
   return (
-    <div>
-      
+    <div className='max-w-screen-l mx-auto flex flex-col 
+    items-center justify-center '>
+      <Slide/>
     </div>
   )
 }

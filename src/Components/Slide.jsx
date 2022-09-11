@@ -1,9 +1,13 @@
 import React from 'react'
+import slideImage1 from '../assets/slide1.png'
+import slideImage2 from '../assets/slide2.png'
+import slideImage3 from '../assets/slide3.png'
+
 
 const imageArray = [
-"/src/assets/slide1.png",
-"/src/assets/slide2.png",
-"/src/assets/slide3.png",
+slideImage1,
+slideImage2,
+slideImage3,
 ];
   
 
