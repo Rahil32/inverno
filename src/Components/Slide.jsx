@@ -12,7 +12,7 @@ slideImage3,
   
 
 export default function Slide(){
-    return <div className='w-full select-none'>
-        <img src={imageArray[0]} alt="" />
+    return <div className='w-300 select-none h-100'>
+        <img src={imageArray[1]} alt="" />
     </div>
 }
